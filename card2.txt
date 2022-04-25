@@ -1,0 +1,19 @@
+ESHITA
+8291748272
+10012992300
+304700
+1305
+5
+2024
+12000
+Transaction History:
+------------------------------------------------------------------------------------------
+Sun Jun 13 17:53:09 2021
+                       + Rs.700
+ACCOUNT BASED TRANSFER
+FROM ACC. NO.
+15131151311
+TO ACC. NO.
+10012992300
+Reference No.: HBSE136202112239
+AVAILABLE BALANCE IS     Rs.304700

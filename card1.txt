@@ -1,0 +1,45 @@
+BHAVESH
+8999637818
+15131151311
+175400
+1215
+12
+2025
+0
+Transaction History:
+------------------------------------------------------------------------------------------
+Sun Jun 13 17:51:56 2021
+                       - Rs.500
+CASH WITHDRAWAL
+FROM ACC. NO.
+15131151311
+Reference No.: HBSE1362021122156
+AVAILABLE BALANCE IS     Rs.173400
+------------------------------------------------------------------------------------------
+Sun Jun 13 17:52:07 2021
+                       + Rs.2800
+CASH DEPOSIT
+TO ACC. NO.
+15131151311
+Reference No.: HBSE136202112227
+AVAILABLE BALANCE IS     Rs.176200
+------------------------------------------------------------------------------------------
+Sun Jun 13 17:52:41 2021
+                       - Rs.100
+MOBILE RECHARGE
+FROM ACC. NO.
+15131151311
+TO MOBILE NO.
+9876543210
+Reference No.: HBSE1362021122241
+AVAILABLE BALANCE IS     Rs.176100
+------------------------------------------------------------------------------------------
+Sun Jun 13 17:53:09 2021
+                       - Rs.700
+ACCOUNT BASED TRANSFER
+FROM ACC. NO.
+15131151311
+TO ACC. NO.
+10012992300
+Reference No.: HBSE136202112239
+AVAILABLE BALANCE IS     Rs.175400
